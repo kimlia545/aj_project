@@ -1,2 +1,2 @@
 # aj_project
-Decorate your puppy face
+opencv dog face detection
