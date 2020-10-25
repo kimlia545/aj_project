@@ -2,12 +2,19 @@
 Detect dog face rect and facial landmarks(6 points) using dlib
 
 # Screenshots
+
 * Detect Landmarks (Images)
+
 ![04_out2](https://user-images.githubusercontent.com/72369991/97110010-fe1f0880-1719-11eb-83c3-703dc11ad8d6.jpg)
+
 * Head_decoration (Images)
-![yam_1](https://user-images.githubusercontent.com/72369991/95701694-3daf1480-0c85-11eb-8ad1-4d7ef17a7302.png)
+
+![11_out2](https://user-images.githubusercontent.com/72369991/97110011-fe1f0880-1719-11eb-9d03-5c4a2614711c.jpg)
+
 * Nose_decoration (Images)
+
 ![01_out3](https://user-images.githubusercontent.com/72369991/97110003-fc554500-1719-11eb-9c2a-b394f3f75c61.jpg)
+
 * Mask_decoration (Images)
 ![01_out4](https://user-images.githubusercontent.com/72369991/97110004-fc554500-1719-11eb-8d12-2b9cf19a24e9.jpg)
 * Eyes_decoration (Images)
